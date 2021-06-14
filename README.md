@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Calculador de horas de vídeo produtos no Youtube</b>
+  <b>Calculador de horas de vídeo produzidos no Youtube</b>
 </h1>
 
 <p align="center">
