@@ -41,7 +41,9 @@ To use it, just put the URL of your playlist in the field indicated in the code 
 Simple Youtube video hour calculator.
 
 <h1 align="center">
-  <img alt="Calculador de horas de vídeo produzidos no Youtube" title="Calculador de horas de vídeo produzidos no Youtube" src="playlist.png" />
+  <a href="https://www.youtube.com/c/Eltonsantos_oficial" target="_blank">
+    <img alt="Calculador de horas de vídeo produzidos no Youtube" title="Calculador de horas de vídeo produzidos no Youtube" src="playlist.png" />
+  </a>
 </h1>
 
 ---
