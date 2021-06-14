@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <b>Calculador de horas de vídeo produtos no Youtube</b>
-</p>
+</h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
